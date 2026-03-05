@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Variáveis de ambiente — NUNCA commitar!
+.env
+
+# Django
+db.sqlite3
+*.log
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
