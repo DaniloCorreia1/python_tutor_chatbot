@@ -68,7 +68,7 @@ python_tutor_chatbot/
 
 ### 1. Clone e entre na pasta
 ```bash
-git clone https://github.com/SEU_USUARIO/python_tutor_chatbot.git
+git clone https://github.com/DaniloCorreia1/python_tutor_chatbot.git
 cd python_tutor_chatbot
 ```
 
